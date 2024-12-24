@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-24T11:30:04 IST" name="Default suite" finished-at="2024-12-24T11:30:56 IST" duration-ms="52105">
+    <groups>
+    </groups>
+    <test started-at="2024-12-24T11:30:04 IST" name="Default test" finished-at="2024-12-24T11:30:56 IST" duration-ms="52105">
+      <class name="Base_Pak.Base_Class">
+        <test-method is-config="true" signature="Browser1()[pri:0, instance:Base_Pak.Base_Class@43195e57]" started-at="2024-12-24T11:30:04 IST" name="Browser1" finished-at="2024-12-24T11:30:09 IST" duration-ms="5129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser1 -->
+        <test-method signature="Login_valid()[pri:0, instance:Base_Pak.Base_Class@43195e57]" started-at="2024-12-24T11:30:09 IST" name="Login_valid" finished-at="2024-12-24T11:30:18 IST" duration-ms="9033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_valid -->
+        <test-method is-config="true" signature="Registration()[pri:0, instance:Base_Pak.Base_Class@43195e57]" started-at="2024-12-24T11:30:18 IST" name="Registration" finished-at="2024-12-24T11:30:56 IST" duration-ms="37847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+      </class> <!-- Base_Pak.Base_Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
